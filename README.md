@@ -6,9 +6,9 @@ Cisco's Cloud Software Stack including UCS Director and Intercloud Fabric Direct
 
 ## Author Information
 
-**Author** Hank Preston
+**Author** Bryan Osoro
 
-**Contact Info** hapresto@cisco.com
+**Contact Info** bosoro@cisco.com
 
 With contributions from other Cisco people. 
 
@@ -36,7 +36,7 @@ This repository is a living holding pen I use for labs and demos.  Check back of
 
 ****************************************************************************************************
 Legal Disclaimer... 
-The samples and code provided here is provided without warranty from myself or Cisco Systems.  
+The samples and code provided here is provided without warranty from myself.
 It is simply provided as an example of working with the APIs included in the referenced products, 
 and was created by the author and is not an official extension of the software from Cisco.  
 ****************************************************************************************************
